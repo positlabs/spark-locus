@@ -4,4 +4,4 @@ This effect will take spatio-temporal snapshots and leave them hanging in the ai
 
 ![demo.jpg](demo.jpg)
 
-<video src="demo.mp4" muted autoplay playsinline></video>
+https://user-images.githubusercontent.com/1918844/225094301-17cc4362-2e96-4cd2-b237-d189f0ae6717.mp4
